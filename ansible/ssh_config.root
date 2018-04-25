@@ -1,0 +1,6 @@
+Host my-webapp-dev
+    User root
+    HostName 47.74.xx.xx
+    IdentityFile ../terraform/tf_keypair_jp.pem
+    StrictHostKeyChecking no
+    UserKnownHostsFile /dev/null
