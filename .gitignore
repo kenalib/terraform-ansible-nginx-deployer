@@ -4,3 +4,9 @@
 
 # Module directory
 .terraform/
+
+# Ansible
+*.retry
+
+# private key file
+*.pem
