@@ -1,0 +1,5 @@
+Host my-webapp-dev
+    User deployer
+    HostName 47.74.xx.xx
+    StrictHostKeyChecking no
+    UserKnownHostsFile /dev/null
